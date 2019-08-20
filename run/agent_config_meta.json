@@ -1,0 +1,278 @@
+{
+  "keys": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+  "middleware": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+  "time": {
+    "name": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js"
+  },
+  "view": {
+    "mapping": {
+      ".html": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js"
+    },
+    "root": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "cache": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "type": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "useSession": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "cookieName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "sessionName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "headerName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "bodyName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "queryName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.local.js",
+      "maxAge": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "policy": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "checkAddress": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "files": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "fastReady": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "arttemplate": {
+    "filename": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "escape": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "debug": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "bail": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "cache": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "minimize": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "compileDebug": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "root": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "extname": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js",
+    "ignore": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view-arttemplate@2.0.2@egg-view-arttemplate/config/config.default.js"
+  },
+  "env": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "name": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "proxy": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "version": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "description": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "main": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "keywords": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "author": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "license": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-bin": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-view-arttemplate": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "HOME": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "rundir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "notFound": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "sitefile": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "middlewares": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "httpClient": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "formLimit": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "strict": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "depth": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "env": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "level": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "outputJSON": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "buffer": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "appLogName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "agentLogName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "errorLogName": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "logging": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "port": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "hostname": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+}

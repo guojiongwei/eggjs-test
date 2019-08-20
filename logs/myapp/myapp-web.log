@@ -1,0 +1,401 @@
+2019-08-14 21:46:46,788 ERROR 1414 [-/::1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:87:33)
+    at Object.ensureCsrfSecret (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:98:13)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+
+pid: 1414
+hostname: guojionweidembp
+
+2019-08-14 22:14:25,488 ERROR 651 [-/::1/-/92ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:11:7
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.formDate(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'formDate' of undefined
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.formDate(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'formDate' of undefined
+name: "TemplateError"
+pid: 651
+hostname: 192.168.1.105
+
+2019-08-14 22:15:33,048 ERROR 651 [-/::1/-/1ms GET /] nodejs.TemplateError: Cannot read property 'formDate' of undefined
+TemplateError: Cannot read property 'formDate' of undefined
+name: "TemplateError"
+pid: 651
+hostname: 192.168.1.105
+
+2019-08-14 22:15:41,835 ERROR 651 [-/::1/-/1ms GET /] nodejs.TemplateError: Cannot read property 'formDate' of undefined
+TemplateError: Cannot read property 'formDate' of undefined
+name: "TemplateError"
+pid: 651
+hostname: 192.168.1.105
+
+2019-08-14 22:15:47,756 ERROR 651 [-/::1/-/1ms GET /] nodejs.TemplateError: Cannot read property 'formDate' of undefined
+TemplateError: Cannot read property 'formDate' of undefined
+name: "TemplateError"
+pid: 651
+hostname: 192.168.1.105
+
+2019-08-14 22:16:50,723 ERROR 664 [-/::1/-/85ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:11:7
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.formDate(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'formDate' of undefined
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.formDate(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'formDate' of undefined
+name: "TemplateError"
+pid: 664
+hostname: 192.168.1.105
+
+2019-08-14 22:18:28,444 ERROR 665 [-/::1/-/90ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:11:7
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 665
+hostname: 192.168.1.105
+
+2019-08-14 22:18:29,606 ERROR 665 [-/::1/-/1ms GET /] nodejs.TemplateError: Cannot read property 'relativeTime' of undefined
+TemplateError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 665
+hostname: 192.168.1.105
+
+2019-08-14 22:19:00,997 ERROR 671 [-/::1/-/85ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:11:7
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 671
+hostname: 192.168.1.105
+
+2019-08-14 22:19:02,226 ERROR 671 [-/::1/-/2ms GET /] nodejs.TemplateError: Cannot read property 'relativeTime' of undefined
+TemplateError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 671
+hostname: 192.168.1.105
+
+2019-08-14 22:19:03,881 ERROR 671 [-/::1/-/0ms GET /] nodejs.TemplateError: Cannot read property 'relativeTime' of undefined
+TemplateError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 671
+hostname: 192.168.1.105
+
+2019-08-14 22:19:04,495 ERROR 671 [-/::1/-/1ms GET /] nodejs.TemplateError: Cannot read property 'relativeTime' of undefined
+TemplateError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 671
+hostname: 192.168.1.105
+
+2019-08-14 22:20:56,730 ERROR 678 [-/::1/-/92ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:11:7
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+    9| <body>
+    10|   <h1>我是首页</h1>
+ >> 11|   <h2>{{help.relativeTime(name)}}</h2>
+    12| </body>
+    13| </html>
+
+RuntimeError: Cannot read property 'relativeTime' of undefined
+name: "TemplateError"
+pid: 678
+hostname: 192.168.1.105
+
+2019-08-14 22:51:51,414 ERROR 828 [-/::1/-/1104ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:54:29
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{@ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{@ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 828
+hostname: guojionweidembp
+
+2019-08-14 22:52:14,015 ERROR 828 [-/::1/-/2138ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 828
+hostname: guojionweidembp
+
+2019-08-14 22:55:37,454 ERROR 836 [-/::1/-/1379ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:54:29
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{@ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{@ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 22:56:57,991 ERROR 836 [-/::1/-/1868ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 22:57:27,215 ERROR 836 [-/::1/-/220ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 22:57:55,525 ERROR 836 [-/::1/-/448ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 22:58:18,852 ERROR 836 [-/::1/-/392ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 22:58:25,175 ERROR 836 [-/::1/-/215ms GET /] nodejs.TemplateError: $value.createTime.toLocaleDateString is not a function
+TemplateError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 836
+hostname: guojionweidembp
+
+2019-08-14 23:04:00,263 ERROR 935 [-/::1/-/563ms GET /] nodejs.TemplateError: /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/view/index.html:54:29
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+    52|                           </svg>
+    53|                       </a>
+ >> 54|                       <time>{{ $value.createTime.toLocaleDateString() }}</time>
+    55|                       <h2 class="name">
+    56|                         <a class="href" href="{{'/article/' + $value._id}}">
+    57|                           {{$value.title}}
+
+RuntimeError: $value.createTime.toLocaleDateString is not a function
+name: "TemplateError"
+pid: 935
+hostname: guojionweidembp
+
+2019-08-18 23:09:27,995 ERROR 874 [-/::1/-/7ms GET /] nodejs.TypeError: Cannot read property 'test' of undefined
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/app/middleware/time.js:10:27
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 874
+hostname: guojionweidembp
+
+2019-08-20 22:41:03,652 WARN 2180 [-/127.0.0.1/-/19ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:41:03,654 WARN 2180 [-/127.0.0.1/-/21ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2180
+hostname: guojionweidembp
+
+2019-08-20 22:41:07,488 WARN 2180 [-/127.0.0.1/-/0ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:41:07,488 WARN 2180 [-/127.0.0.1/-/0ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2180
+hostname: guojionweidembp
+
+2019-08-20 22:45:53,500 WARN 2235 [-/127.0.0.1/-/7ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:45:53,502 WARN 2235 [-/127.0.0.1/-/9ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2235
+hostname: guojionweidembp
+
+2019-08-20 22:46:53,880 WARN 2235 [-/127.0.0.1/-/1ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:46:53,880 WARN 2235 [-/127.0.0.1/-/1ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2235
+hostname: guojionweidembp
+
+2019-08-20 22:47:21,317 WARN 2256 [-/127.0.0.1/-/7ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:47:21,319 WARN 2256 [-/127.0.0.1/-/8ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2256
+hostname: guojionweidembp
+
+2019-08-20 22:47:22,034 WARN 2256 [-/127.0.0.1/-/0ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:47:22,035 WARN 2256 [-/127.0.0.1/-/0ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2256
+hostname: guojionweidembp
+
+2019-08-20 22:50:00,287 WARN 2256 [-/127.0.0.1/-/0ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:50:00,288 WARN 2256 [-/127.0.0.1/-/0ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2256
+hostname: guojionweidembp
+
+2019-08-20 22:50:23,902 WARN 2274 [-/127.0.0.1/-/8ms POST /post] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-20 22:50:23,904 WARN 2274 [-/127.0.0.1/-/9ms POST /post] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 2274
+hostname: guojionweidembp
+
+2019-08-20 23:05:36,801 ERROR 2370 [-/127.0.0.1/-/9ms POST /post] nodejs.TypeError: Cannot read property 'set' of undefined
+    at HomeController.post (/Users/guojiongwei/Desktop/wuyou/egg/myapp/app/controller/home.js:14:18)
+    at Object.callFn (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 2370
+hostname: guojionweidembp
+

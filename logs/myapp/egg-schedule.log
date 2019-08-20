@@ -1,0 +1,597 @@
+2019-08-14 21:46:32,148 INFO 1413 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 24207855ms at 2019-08-15 04:30:00.003
+2019-08-14 21:46:32,148 INFO 1413 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 8007852ms at 2019-08-15 00:00:00.000
+2019-08-14 21:46:32,148 INFO 1413 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 8008852ms at 2019-08-15 00:00:01.000
+2019-08-14 21:46:32,100 INFO 1414 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 21:46:32,100 INFO 1414 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 21:46:32,100 INFO 1414 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 21:47:09,416 INFO 1421 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 21:47:09,416 INFO 1421 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 21:47:09,416 INFO 1421 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 21:47:33,913 INFO 1423 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 21:47:33,913 INFO 1423 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 21:47:33,913 INFO 1423 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 21:48:20,272 INFO 1424 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 21:48:20,272 INFO 1424 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 21:48:20,272 INFO 1424 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 21:59:55,741 INFO 567 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 23404262ms at 2019-08-15 04:30:00.003
+2019-08-14 21:59:55,741 INFO 567 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 7204259ms at 2019-08-15 00:00:00.000
+2019-08-14 21:59:55,741 INFO 567 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 7205259ms at 2019-08-15 00:00:01.000
+2019-08-14 21:59:55,629 INFO 568 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 21:59:55,629 INFO 568 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 21:59:55,630 INFO 568 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:02:59,063 INFO 597 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:02:59,063 INFO 597 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:02:59,063 INFO 597 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:05:21,344 INFO 625 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 23078659ms at 2019-08-15 04:30:00.003
+2019-08-14 22:05:21,344 INFO 625 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 6878656ms at 2019-08-15 00:00:00.000
+2019-08-14 22:05:21,344 INFO 625 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6879656ms at 2019-08-15 00:00:01.000
+2019-08-14 22:05:21,289 INFO 626 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:05:21,289 INFO 626 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:05:21,289 INFO 626 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:07:09,020 INFO 642 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:07:09,020 INFO 642 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:07:09,020 INFO 642 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:12:01,363 INFO 647 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:12:01,363 INFO 647 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:12:01,363 INFO 647 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:13:08,811 INFO 648 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:13:08,811 INFO 648 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:13:08,811 INFO 648 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:13:45,063 INFO 651 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:13:45,063 INFO 651 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:13:45,063 INFO 651 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:16:16,399 INFO 661 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:16:16,399 INFO 661 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:16:16,399 INFO 661 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:16:44,310 INFO 664 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:16:44,310 INFO 664 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:16:44,310 INFO 664 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:18:13,127 INFO 665 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:18:13,127 INFO 665 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:18:13,127 INFO 665 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:18:41,917 INFO 668 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:18:41,917 INFO 668 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:18:41,917 INFO 668 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:18:58,621 INFO 671 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:18:58,621 INFO 671 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:18:58,621 INFO 671 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:19:41,413 INFO 673 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:19:41,413 INFO 673 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:19:41,413 INFO 673 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:20:16,740 INFO 674 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:20:16,740 INFO 674 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:20:16,740 INFO 674 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:20:44,820 INFO 678 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:20:44,820 INFO 678 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:20:44,820 INFO 678 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:21:11,819 INFO 682 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:21:11,819 INFO 682 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:21:11,819 INFO 682 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:21:12,930 INFO 683 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:21:12,930 INFO 683 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:21:12,930 INFO 683 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:42:03,997 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:42:03,997 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:42:03,997 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:44:58,902 INFO 757 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:44:58,902 INFO 757 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:44:58,902 INFO 757 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:45:37,659 INFO 759 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:45:37,659 INFO 759 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:45:37,659 INFO 759 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:46:09,264 INFO 761 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:46:09,264 INFO 761 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:46:09,264 INFO 761 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:46:14,454 INFO 763 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:46:14,454 INFO 763 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:46:14,454 INFO 763 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:47:01,300 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:47:01,300 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:47:01,300 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:47:55,055 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:47:55,055 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:47:55,055 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:48:08,459 INFO 770 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:48:08,459 INFO 770 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:48:08,459 INFO 770 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:51:30,061 INFO 828 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:51:30,061 INFO 828 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:51:30,061 INFO 828 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:53:49,220 INFO 834 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:53:49,220 INFO 834 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:53:49,220 INFO 834 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:54:01,728 INFO 836 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:54:01,728 INFO 836 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:54:01,728 INFO 836 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 22:58:54,968 INFO 897 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19865036ms at 2019-08-15 04:30:00.004
+2019-08-14 22:58:54,969 INFO 897 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3665032ms at 2019-08-15 00:00:00.001
+2019-08-14 22:58:54,969 INFO 897 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3666031ms at 2019-08-15 00:00:01.000
+2019-08-14 22:58:54,868 INFO 904 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 22:58:54,868 INFO 904 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 22:58:54,868 INFO 904 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 23:00:12,057 INFO 912 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19787948ms at 2019-08-15 04:30:00.005
+2019-08-14 23:00:12,057 INFO 912 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3587943ms at 2019-08-15 00:00:00.000
+2019-08-14 23:00:12,057 INFO 912 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3588943ms at 2019-08-15 00:00:01.000
+2019-08-14 23:00:11,956 INFO 917 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 23:00:11,956 INFO 917 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 23:00:11,956 INFO 917 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 23:03:56,921 INFO 930 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19563083ms at 2019-08-15 04:30:00.004
+2019-08-14 23:03:56,922 INFO 930 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3363079ms at 2019-08-15 00:00:00.000
+2019-08-14 23:03:56,922 INFO 930 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3364078ms at 2019-08-15 00:00:01.000
+2019-08-14 23:03:56,825 INFO 935 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 23:03:56,825 INFO 935 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 23:03:56,825 INFO 935 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 23:04:43,685 INFO 942 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19516319ms at 2019-08-15 04:30:00.004
+2019-08-14 23:04:43,685 INFO 942 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3316315ms at 2019-08-15 00:00:00.000
+2019-08-14 23:04:43,686 INFO 942 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3317315ms at 2019-08-15 00:00:01.001
+2019-08-14 23:04:43,590 INFO 947 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 23:04:43,590 INFO 947 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 23:04:43,590 INFO 947 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-14 23:06:33,464 INFO 952 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-14 23:06:33,464 INFO 952 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-14 23:06:33,464 INFO 952 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 13:22:01,218 INFO 748 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54478785ms at 2019-08-19 04:30:00.003
+2019-08-18 13:22:01,218 INFO 748 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 38278782ms at 2019-08-19 00:00:00.000
+2019-08-18 13:22:01,218 INFO 748 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38279782ms at 2019-08-19 00:00:01.000
+2019-08-18 13:22:01,100 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 13:22:01,100 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 13:22:01,100 INFO 749 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 13:23:30,134 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 13:23:30,134 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 13:23:30,134 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 13:25:06,848 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 13:25:06,848 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 13:25:06,848 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 13:27:42,517 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 13:27:42,518 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 13:27:42,518 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:14:03,634 INFO 583 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22556369ms at 2019-08-19 04:30:00.003
+2019-08-18 22:14:03,634 INFO 583 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 6356366ms at 2019-08-19 00:00:00.000
+2019-08-18 22:14:03,635 INFO 583 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6357366ms at 2019-08-19 00:00:01.001
+2019-08-18 22:14:03,505 INFO 584 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:14:03,505 INFO 584 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:14:03,505 INFO 584 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:18:52,471 INFO 675 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:18:52,471 INFO 675 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:18:52,472 INFO 675 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:23:38,210 INFO 684 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:23:38,210 INFO 684 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:23:38,210 INFO 684 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:23:42,651 INFO 685 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:23:42,651 INFO 685 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:23:42,651 INFO 685 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:24:19,773 INFO 686 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:24:19,773 INFO 686 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:24:19,773 INFO 686 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:24:33,956 INFO 687 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:24:33,956 INFO 687 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:24:33,956 INFO 687 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:25:10,483 INFO 691 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:25:10,483 INFO 691 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:25:10,483 INFO 691 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:25:19,335 INFO 693 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:25:19,335 INFO 693 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:25:19,335 INFO 693 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:27:03,522 INFO 695 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:27:03,522 INFO 695 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:27:03,522 INFO 695 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:27:20,058 INFO 697 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:27:20,058 INFO 697 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:27:20,058 INFO 697 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:27:39,489 INFO 698 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:27:39,489 INFO 698 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:27:39,489 INFO 698 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:28:13,200 INFO 700 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:28:13,200 INFO 700 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:28:13,200 INFO 700 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:28:55,211 INFO 701 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:28:55,211 INFO 701 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:28:55,211 INFO 701 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:29:41,914 INFO 702 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:29:41,914 INFO 702 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:29:41,914 INFO 702 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:30:34,409 INFO 704 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:30:34,409 INFO 704 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:30:34,409 INFO 704 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:30:54,476 INFO 705 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:30:54,476 INFO 705 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:30:54,476 INFO 705 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:31:13,955 INFO 706 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:31:13,955 INFO 706 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:31:13,955 INFO 706 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:31:14,440 INFO 707 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:31:14,440 INFO 707 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:31:14,440 INFO 707 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:36:26,388 INFO 738 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:36:26,388 INFO 738 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:36:26,388 INFO 738 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:36:37,295 INFO 739 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:36:37,295 INFO 739 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:36:37,295 INFO 739 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:36:51,043 INFO 740 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:36:51,043 INFO 740 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:36:51,043 INFO 740 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:36:55,027 INFO 741 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:36:55,027 INFO 741 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:36:55,027 INFO 741 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:36:57,815 INFO 742 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:36:57,815 INFO 742 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:36:57,815 INFO 742 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:37:26,642 INFO 743 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:37:26,642 INFO 743 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:37:26,642 INFO 743 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:37:41,105 INFO 744 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:37:41,105 INFO 744 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:37:41,105 INFO 744 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:37:54,929 INFO 745 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:37:54,929 INFO 745 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:37:54,929 INFO 745 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:38:24,674 INFO 747 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:38:24,674 INFO 747 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:38:24,674 INFO 747 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:39:14,442 INFO 753 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:39:14,442 INFO 753 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:39:14,442 INFO 753 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:39:36,522 INFO 761 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21023480ms at 2019-08-19 04:30:00.002
+2019-08-18 22:39:36,522 INFO 761 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4823478ms at 2019-08-19 00:00:00.000
+2019-08-18 22:39:36,523 INFO 761 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4824478ms at 2019-08-19 00:00:01.001
+2019-08-18 22:39:36,472 INFO 762 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:39:36,472 INFO 762 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:39:36,472 INFO 762 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:39:40,868 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:39:40,868 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:39:40,868 INFO 767 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:40:11,541 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:40:11,541 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:40:11,541 INFO 769 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:40:37,497 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:40:37,497 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:40:37,497 INFO 771 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:40:54,861 INFO 774 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:40:54,861 INFO 774 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:40:54,861 INFO 774 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:41:04,966 INFO 777 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:41:04,966 INFO 777 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:41:04,966 INFO 777 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:41:21,321 INFO 780 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:41:21,321 INFO 780 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:41:21,321 INFO 780 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:44:02,435 INFO 786 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:44:02,435 INFO 786 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:44:02,435 INFO 786 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:44:10,880 INFO 788 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:44:10,880 INFO 788 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:44:10,880 INFO 788 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:44:19,945 INFO 790 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:44:19,945 INFO 790 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:44:19,945 INFO 790 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:44:29,991 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:44:29,991 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:44:29,991 INFO 792 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:44:40,239 INFO 794 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:44:40,239 INFO 794 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:44:40,239 INFO 794 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 22:46:06,857 INFO 799 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 22:46:06,857 INFO 799 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 22:46:06,857 INFO 799 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:01:57,056 INFO 844 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19682946ms at 2019-08-19 04:30:00.002
+2019-08-18 23:01:57,056 INFO 844 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3482944ms at 2019-08-19 00:00:00.000
+2019-08-18 23:01:57,056 INFO 844 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3483944ms at 2019-08-19 00:00:01.000
+2019-08-18 23:01:57,005 INFO 845 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:01:57,005 INFO 845 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:01:57,005 INFO 845 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:02:48,966 INFO 851 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:02:48,966 INFO 851 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:02:48,966 INFO 851 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:02:58,249 INFO 853 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:02:58,249 INFO 853 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:02:58,249 INFO 853 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:03:07,766 INFO 856 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:03:07,766 INFO 856 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:03:07,766 INFO 856 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:03:17,143 INFO 858 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:03:17,144 INFO 858 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:03:17,144 INFO 858 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:05:57,142 INFO 862 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:05:57,142 INFO 862 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:05:57,142 INFO 862 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:09:14,413 INFO 872 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:09:14,413 INFO 872 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:09:14,413 INFO 872 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:09:24,068 INFO 874 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:09:24,068 INFO 874 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:09:24,068 INFO 874 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:09:41,109 INFO 875 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:09:41,109 INFO 875 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:09:41,109 INFO 875 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:09:54,049 INFO 877 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:09:54,049 INFO 877 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:09:54,049 INFO 877 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:10:03,037 INFO 878 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:10:03,037 INFO 878 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:10:03,037 INFO 878 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:11:29,385 INFO 887 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:11:29,385 INFO 887 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:11:29,385 INFO 887 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:12:01,099 INFO 888 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:12:01,099 INFO 888 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:12:01,099 INFO 888 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:12:25,662 INFO 890 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:12:25,662 INFO 890 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:12:25,662 INFO 890 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:12:44,328 INFO 892 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:12:44,328 INFO 892 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:12:44,328 INFO 892 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:13:55,514 INFO 900 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:13:55,514 INFO 900 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:13:55,514 INFO 900 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-18 23:14:32,337 INFO 913 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18927665ms at 2019-08-19 04:30:00.002
+2019-08-18 23:14:32,338 INFO 913 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 2727662ms at 2019-08-19 00:00:00.000
+2019-08-18 23:14:32,338 INFO 913 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2728662ms at 2019-08-19 00:00:01.000
+2019-08-18 23:14:32,287 INFO 914 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-18 23:14:32,287 INFO 914 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-18 23:14:32,287 INFO 914 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:46:08,432 INFO 1282 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 27831571ms at 2019-08-21 04:30:00.003
+2019-08-20 20:46:08,432 INFO 1282 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 11631568ms at 2019-08-21 00:00:00.000
+2019-08-20 20:46:08,432 INFO 1282 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 11632568ms at 2019-08-21 00:00:01.000
+2019-08-20 20:46:08,318 INFO 1283 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:46:08,318 INFO 1283 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:46:08,318 INFO 1283 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:46:37,666 INFO 1292 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:46:37,666 INFO 1292 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:46:37,666 INFO 1292 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:48:17,311 INFO 1293 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:48:17,311 INFO 1293 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:48:17,311 INFO 1293 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:49:05,927 INFO 1295 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:49:05,927 INFO 1295 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:49:05,928 INFO 1295 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:49:16,436 INFO 1297 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:49:16,436 INFO 1297 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:49:16,436 INFO 1297 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:49:22,838 INFO 1299 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:49:22,838 INFO 1299 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:49:22,838 INFO 1299 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:49:28,850 INFO 1301 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:49:28,850 INFO 1301 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:49:28,850 INFO 1301 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:58:43,033 INFO 1324 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:58:43,033 INFO 1324 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:58:43,033 INFO 1324 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:58:49,181 INFO 1326 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:58:49,181 INFO 1326 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:58:49,181 INFO 1326 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:58:56,712 INFO 1328 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:58:56,712 INFO 1328 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:58:56,712 INFO 1328 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:59:13,929 INFO 1330 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:59:13,929 INFO 1330 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:59:13,929 INFO 1330 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:59:33,037 INFO 1332 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:59:33,037 INFO 1332 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:59:33,037 INFO 1332 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 20:59:47,729 INFO 1334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 20:59:47,729 INFO 1334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 20:59:47,729 INFO 1334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:11:47,267 INFO 1971 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:11:47,267 INFO 1971 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:11:47,267 INFO 1971 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:12:28,442 INFO 1974 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:12:28,442 INFO 1974 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:12:28,442 INFO 1974 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:14:00,753 INFO 1991 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22559249ms at 2019-08-21 04:30:00.002
+2019-08-20 22:14:00,753 INFO 1991 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 6359247ms at 2019-08-21 00:00:00.000
+2019-08-20 22:14:00,753 INFO 1991 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6360247ms at 2019-08-21 00:00:01.000
+2019-08-20 22:14:00,699 INFO 1993 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:14:00,699 INFO 1993 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:14:00,699 INFO 1993 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:16:20,793 INFO 2016 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:16:20,793 INFO 2016 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:16:20,793 INFO 2016 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:16:46,741 INFO 2019 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:16:46,741 INFO 2019 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:16:46,741 INFO 2019 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:17:03,888 INFO 2020 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:17:03,888 INFO 2020 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:17:03,888 INFO 2020 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:17:26,922 INFO 2021 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:17:26,922 INFO 2021 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:17:26,922 INFO 2021 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:17:36,304 INFO 2022 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:17:36,304 INFO 2022 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:17:36,304 INFO 2022 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:17:49,812 INFO 2024 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:17:49,812 INFO 2024 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:17:49,812 INFO 2024 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:17:56,410 INFO 2026 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:17:56,410 INFO 2026 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:17:56,410 INFO 2026 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:18:01,015 INFO 2028 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:18:01,015 INFO 2028 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:18:01,015 INFO 2028 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:18:33,898 INFO 2031 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:18:33,898 INFO 2031 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:18:33,898 INFO 2031 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:18:36,946 INFO 2033 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:18:36,946 INFO 2033 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:18:36,946 INFO 2033 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:18:59,633 INFO 2035 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:18:59,633 INFO 2035 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:18:59,633 INFO 2035 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:13,436 INFO 2037 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:13,436 INFO 2037 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:13,436 INFO 2037 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:27,143 INFO 2040 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:27,143 INFO 2040 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:27,143 INFO 2040 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:36,465 INFO 2042 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:36,465 INFO 2042 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:36,465 INFO 2042 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:41,564 INFO 2044 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:41,564 INFO 2044 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:41,564 INFO 2044 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:46,734 INFO 2046 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:46,734 INFO 2046 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:46,734 INFO 2046 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:19:57,433 INFO 2048 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:19:57,433 INFO 2048 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:19:57,433 INFO 2048 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:20:04,657 INFO 2050 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:20:04,657 INFO 2050 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:20:04,657 INFO 2050 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:20:10,341 INFO 2052 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:20:10,341 INFO 2052 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:20:10,341 INFO 2052 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:20:17,140 INFO 2054 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:20:17,140 INFO 2054 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:20:17,140 INFO 2054 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:24:22,439 INFO 2072 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:24:22,439 INFO 2072 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:24:22,439 INFO 2072 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:24:25,749 INFO 2074 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:24:25,749 INFO 2074 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:24:25,749 INFO 2074 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:24:28,865 INFO 2076 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:24:28,865 INFO 2076 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:24:28,865 INFO 2076 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:24:32,120 INFO 2078 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:24:32,120 INFO 2078 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:24:32,120 INFO 2078 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:26:13,292 INFO 2091 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21826710ms at 2019-08-21 04:30:00.002
+2019-08-20 22:26:13,292 INFO 2091 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5626708ms at 2019-08-21 00:00:00.000
+2019-08-20 22:26:13,292 INFO 2091 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5627708ms at 2019-08-21 00:00:01.000
+2019-08-20 22:26:13,238 INFO 2092 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:26:13,238 INFO 2092 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:26:13,238 INFO 2092 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:27:58,461 INFO 2109 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:27:58,461 INFO 2109 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:27:58,461 INFO 2109 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:29:44,636 INFO 2116 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:29:44,636 INFO 2116 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:29:44,636 INFO 2116 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:30:13,609 INFO 2135 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21586393ms at 2019-08-21 04:30:00.002
+2019-08-20 22:30:13,609 INFO 2135 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5386391ms at 2019-08-21 00:00:00.000
+2019-08-20 22:30:13,609 INFO 2135 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5387391ms at 2019-08-21 00:00:01.000
+2019-08-20 22:30:13,554 INFO 2136 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:30:13,554 INFO 2136 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:30:13,554 INFO 2136 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:31:28,848 INFO 2144 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:31:28,848 INFO 2144 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:31:28,848 INFO 2144 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:34:03,020 INFO 2170 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:34:03,020 INFO 2170 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:34:03,020 INFO 2170 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:37:35,088 INFO 2178 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:37:35,088 INFO 2178 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:37:35,088 INFO 2178 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:38:11,102 INFO 2180 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:38:11,102 INFO 2180 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:38:11,102 INFO 2180 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:43:12,416 INFO 2203 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20807587ms at 2019-08-21 04:30:00.003
+2019-08-20 22:43:12,416 INFO 2203 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4607584ms at 2019-08-21 00:00:00.000
+2019-08-20 22:43:12,416 INFO 2203 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4608584ms at 2019-08-21 00:00:01.000
+2019-08-20 22:43:12,357 INFO 2204 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:43:12,357 INFO 2204 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:43:12,357 INFO 2204 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:43:42,686 INFO 2215 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20777317ms at 2019-08-21 04:30:00.003
+2019-08-20 22:43:42,686 INFO 2215 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4577314ms at 2019-08-21 00:00:00.000
+2019-08-20 22:43:42,687 INFO 2215 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4578314ms at 2019-08-21 00:00:01.001
+2019-08-20 22:43:42,624 INFO 2216 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:43:42,624 INFO 2216 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:43:42,624 INFO 2216 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:45:49,073 INFO 2234 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20650930ms at 2019-08-21 04:30:00.003
+2019-08-20 22:45:49,073 INFO 2234 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4450927ms at 2019-08-21 00:00:00.000
+2019-08-20 22:45:49,073 INFO 2234 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4451927ms at 2019-08-21 00:00:01.000
+2019-08-20 22:45:49,013 INFO 2235 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:45:49,013 INFO 2235 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:45:49,013 INFO 2235 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:47:18,046 INFO 2255 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20561956ms at 2019-08-21 04:30:00.002
+2019-08-20 22:47:18,046 INFO 2255 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4361954ms at 2019-08-21 00:00:00.000
+2019-08-20 22:47:18,046 INFO 2255 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4362954ms at 2019-08-21 00:00:01.000
+2019-08-20 22:47:17,992 INFO 2256 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:47:17,992 INFO 2256 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:47:17,992 INFO 2256 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:50:22,600 INFO 2273 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20377403ms at 2019-08-21 04:30:00.003
+2019-08-20 22:50:22,600 INFO 2273 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4177400ms at 2019-08-21 00:00:00.000
+2019-08-20 22:50:22,600 INFO 2273 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4178400ms at 2019-08-21 00:00:01.000
+2019-08-20 22:50:22,543 INFO 2274 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:50:22,543 INFO 2274 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:50:22,543 INFO 2274 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 22:59:52,389 INFO 2327 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 22:59:52,389 INFO 2327 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 22:59:52,389 INFO 2327 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:00:22,728 INFO 2333 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:00:22,728 INFO 2333 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:00:22,728 INFO 2333 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:00:47,872 INFO 2334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:00:47,872 INFO 2334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:00:47,872 INFO 2334 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:01:46,766 INFO 2337 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:01:46,766 INFO 2337 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:01:46,766 INFO 2337 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:02:26,497 INFO 2338 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:02:26,497 INFO 2338 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:02:26,497 INFO 2338 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:02:50,572 INFO 2340 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:02:50,572 INFO 2340 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:02:50,572 INFO 2340 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:03:18,030 INFO 2342 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:03:18,030 INFO 2342 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:03:18,030 INFO 2342 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:04:12,949 INFO 2358 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19547054ms at 2019-08-21 04:30:00.003
+2019-08-20 23:04:12,949 INFO 2358 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 3347051ms at 2019-08-21 00:00:00.000
+2019-08-20 23:04:12,949 INFO 2358 [Timer] /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3348051ms at 2019-08-21 00:00:01.000
+2019-08-20 23:04:12,883 INFO 2359 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:04:12,883 INFO 2359 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:04:12,883 INFO 2359 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:04:31,077 INFO 2365 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:04:31,077 INFO 2365 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:04:31,077 INFO 2365 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:04:47,293 INFO 2367 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:04:47,293 INFO 2367 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:04:47,293 INFO 2367 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:05:33,758 INFO 2370 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:05:33,758 INFO 2370 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:05:33,758 INFO 2370 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:07:50,381 INFO 2390 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:07:50,381 INFO 2390 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:07:50,381 INFO 2390 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:08:38,030 INFO 2391 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:08:38,030 INFO 2391 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:08:38,030 INFO 2391 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:09:30,789 INFO 2392 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:09:30,789 INFO 2392 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:09:30,789 INFO 2392 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:10:02,480 INFO 2394 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:10:02,480 INFO 2394 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:10:02,480 INFO 2394 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:10:32,075 INFO 2396 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:10:32,075 INFO 2396 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:10:32,075 INFO 2396 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:11:07,740 INFO 2397 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:11:07,740 INFO 2397 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:11:07,740 INFO 2397 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:11:34,127 INFO 2398 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:11:34,127 INFO 2398 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:11:34,127 INFO 2398 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:12:05,236 INFO 2399 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:12:05,236 INFO 2399 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:12:05,236 INFO 2399 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:14:14,598 INFO 2403 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:14:14,598 INFO 2403 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:14:14,598 INFO 2403 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:14:57,612 INFO 2407 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:14:57,612 INFO 2407 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:14:57,612 INFO 2407 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:15:12,947 INFO 2411 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:15:12,947 INFO 2411 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:15:12,947 INFO 2411 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:15:42,934 INFO 2416 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:15:42,934 INFO 2416 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:15:42,934 INFO 2416 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:18:18,953 INFO 2419 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:18:18,953 INFO 2419 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:18:18,953 INFO 2419 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-20 23:18:58,610 INFO 2420 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-20 23:18:58,610 INFO 2420 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-08-20 23:18:58,610 INFO 2420 [egg-schedule]: register schedule /Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
