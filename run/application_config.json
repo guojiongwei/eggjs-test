@@ -216,7 +216,8 @@
       "dependencies": {
         "egg": "^2.23.0",
         "egg-bin": "^4.13.0",
-        "egg-view-arttemplate": "^2.0.2"
+        "egg-view-arttemplate": "^2.0.2",
+        "koa-cors": "^0.0.16"
       }
     },
     "baseDir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp",
@@ -322,10 +323,13 @@
     "onClientError": null,
     "middleware": [
       "time",
-      "csrf"
+      "csrf",
+      "cors"
     ],
     "time": {
-      "name": "郭炯韦"
+      "name": "郭炯韦",
+      "match": "/cart",
+      "enable": false
     },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",

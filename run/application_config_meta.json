@@ -2,7 +2,9 @@
   "keys": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
   "middleware": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
   "time": {
-    "name": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js"
+    "name": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+    "match": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+    "enable": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js"
   },
   "view": {
     "mapping": {
@@ -183,7 +185,8 @@
     "dependencies": {
       "egg": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
       "egg-bin": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
-      "egg-view-arttemplate": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+      "egg-view-arttemplate": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "koa-cors": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
     }
   },
   "baseDir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",

@@ -32,8 +32,8 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/cart",
-    "regexp": "/^\\/cart(?:\\/(?=$))?$/",
+    "path": "/test",
+    "regexp": "/^\\/test(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]
@@ -47,6 +47,19 @@
     "paramNames": [],
     "path": "/kind",
     "regexp": "/^\\/kind(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/cart",
+    "regexp": "/^\\/cart(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

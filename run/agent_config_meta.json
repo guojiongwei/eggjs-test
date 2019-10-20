@@ -14,10 +14,10 @@
     "defaultViewEngine": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "key": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "httpOnly": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "encrypt": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+    "key": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+    "maxAge": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+    "httpOnly": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js",
+    "encrypt": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/config/config.default.js"
   },
   "security": {
     "domainWhiteList": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
@@ -183,7 +183,8 @@
     "dependencies": {
       "egg": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
       "egg-bin": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
-      "egg-view-arttemplate": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
+      "egg-view-arttemplate": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "koa-cors": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js"
     }
   },
   "baseDir": "/Users/guojiongwei/Desktop/wuyou/egg/myapp/node_modules/_egg@2.23.0@egg/config/config.default.js",

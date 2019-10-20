@@ -17,6 +17,9 @@ class HomeController extends Controller {
     })
     this.ctx.send({...this.ctx.request.body, test: this.ctx.cookies.get('name')})
   }
+  async test () {
+    this.ctx.send({...this.ctx.request.query})
+  }
 }
 
 module.exports = HomeController;
